@@ -1,3 +1,5 @@
+#This is a Python Program created to detect whether an image is AI generated. 
+
 import tkinter as tk
 from tkinter import filedialog, messagebox
 from PIL import Image, ImageTk
